@@ -23,7 +23,7 @@
   
   <br>
   
-   **Linguagens e Ferramentas:**
+   **Languages and Tools:**
   
   <div style="display: inline_block">
   <img align="center" alt="Selvati-Salesforce" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
