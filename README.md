@@ -1,8 +1,12 @@
-## Olá, eu sou Douglas, você não é o Douglas.
+*Olá, eu sou Douglas, você não é o Douglas.*
 
-- 🔭 Atualmente trabalho com Salesforce na parte de desenvolvimento e em todo seu ecossistema 🌎.
-- 🌱 Sempre estudando JavaScript e seus derivados, sempre me procuro manter atualizado.
-- 👯 As vezes brinco de "Android" nas horas vagas.
+
+## About me
+
+- 🔭 Salesforce Developer and always me improving into its entire ecosystem 🌎.
+- 🌱 Always studying JavaScript and its derivatives, I always try to keep up to date.
+- 👯 Sometimes I play "Android" in my spare time.
+- 🎓 Bachelor of Computer Science.
 
 ---
 
@@ -37,8 +41,18 @@
   
 ---
   
+  **Social Networks:**
   <div>    
   <a href="https://www.linkedin.com/in/dselvati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/douglas.selvati" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  
+  <br>
+  <br>
+  
+---
+  
+   > “Sometimes life hits you in the head with a brick. Don't lose faith.” Steve Jobs.
+>
