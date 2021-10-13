@@ -23,7 +23,7 @@
   
   <br>
   
-   **Languages and Tools:**
+   **Skills:**
   
   <div style="display: inline_block">
   <img align="center" alt="Selvati-Salesforce" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
@@ -41,7 +41,7 @@
   
 ---
   
-  **Skills:**
+  **Social Networks:**
   <div>    
   <a href="https://www.linkedin.com/in/dselvati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dselvati" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
